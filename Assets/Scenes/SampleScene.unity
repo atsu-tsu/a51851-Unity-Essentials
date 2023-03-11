@@ -135,18 +135,6 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7716675260118030408, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.8927
-      objectReference: {fileID: 0}
-    - target: {fileID: 7716675260118030408, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.8927
-      objectReference: {fileID: 0}
-    - target: {fileID: 7716675260118030408, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.8927
-      objectReference: {fileID: 0}
-    - target: {fileID: 7716675260118030408, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.03
       objectReference: {fileID: 0}
@@ -186,9 +174,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7716675260118030410, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: acbce711177388548886450722ecef31, type: 2}
     - target: {fileID: 7716675260118030412, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
       propertyPath: m_Name
       value: BouncyBall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7716675260118030413, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d2ed4952e35fdf49b07685ef42dccc6, type: 3}
