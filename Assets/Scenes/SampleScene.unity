@@ -6331,6 +6331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9d1ed325e262b84e82466dc0a5ca04b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: "Ol\xE1 professor"
 --- !u!4 &2030920150
 Transform:
   m_ObjectHideFlags: 0
